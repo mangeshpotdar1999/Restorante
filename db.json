@@ -208,6 +208,13 @@
       "comment": "TEsting",
       "date": "2021-03-10T03:46:41.982Z",
       "id": 20
+    },
+    {
+      "dishId": 0,
+      "author": "qwqqwqw",
+      "comment": "ddddwd",
+      "date": "2021-03-11T07:51:18.317Z",
+      "id": 21
     }
   ],
   "promotions": [
@@ -225,7 +232,7 @@
     {
       "id": 0,
       "name": "Peter Pan",
-      "image": "images/alberto.png",
+      "image": "images/alberto.jpg",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -290,6 +297,16 @@
       "contactType": "Email",
       "message": "okokok",
       "id": 3
+    },
+    {
+      "firstname": "asd",
+      "lastname": "wer",
+      "telnum": "2323232323",
+      "email": "ghrgt@def.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "Ok",
+      "id": 4
     }
   ]
 }
