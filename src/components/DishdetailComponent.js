@@ -12,7 +12,6 @@ const minLength = (len) => (val) => val && (val.length >= len);
 export class CommentForm extends Component {
     constructor(props) {
         super(props);
-
         this.toggleModal = this.toggleModal.bind(this);
         this.state = {
             isModalOpen: false
